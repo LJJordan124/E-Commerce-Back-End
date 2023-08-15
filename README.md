@@ -26,6 +26,11 @@ THEN I am able to successfully create, update, and delete data in my database
 WILL BE UPDATED AT A LATER TIME
 
 ## Instructions
+Run the following in the terminal to install the materials:
+* npm install node
+* npm install express
+* npm install sequelize
+
 Run the following in the terminal with your SQL account activated for usage:
 * source db/schema.sql
 
