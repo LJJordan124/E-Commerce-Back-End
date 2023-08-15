@@ -27,9 +27,9 @@ WILL BE UPDATED AT A LATER TIME
 
 ## Instructions
 Run the following in the terminal to install the materials:
-* npm install node
-* npm install express
-* npm install sequelize
+* npm i sequelize
+* npm i mysql2
+* npm i dotenv
 
 Run the following in the terminal with your SQL account activated for usage:
 * source db/schema.sql
