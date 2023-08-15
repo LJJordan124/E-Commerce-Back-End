@@ -28,6 +28,7 @@ WILL BE UPDATED AT A LATER TIME
 ## Instructions
 Run the following in the terminal with your SQL account activated for usage:
 * source db/schema.sql
+
 Exit your SQL account and run the following in the terminal:
 * npm run seed
 * npm start
