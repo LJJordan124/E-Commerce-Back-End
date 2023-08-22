@@ -36,7 +36,7 @@ Run the following in the terminal with your SQL account activated for usage:
 
 Exit your SQL account and run the following in the terminal:
 * npm run seed
-* npm start
+* node server.js
 
 ## Script Tips and Advice
 
