@@ -23,7 +23,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Video
-WILL BE UPDATED AT A LATER TIME
+https://youtu.be/9xAwktP5ycc
 
 ## Instructions
 Run the following in the terminal to install the materials:
@@ -37,14 +37,6 @@ Run the following in the terminal with your SQL account activated for usage:
 Exit your SQL account and run the following in the terminal:
 * npm run seed
 * node server.js
-
-## Script Tips and Advice
-
-* The walkthrough video must demonstrate GET routes for all categories, all products, and all tags being tested in Insomnia.
-
-* The walkthrough video must demonstrate GET routes for a single category, a single product, and a single tag being tested in Insomnia.
-
-* The walkthrough video must demonstrate POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
